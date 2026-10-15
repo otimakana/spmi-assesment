@@ -1,7 +1,0 @@
-{
-  "name": "asesmen-reflektif-spmi",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "description": "Form pretest, posttest, refleksi SPMI dan dashboard untuk Cloudflare Pages"
-}
